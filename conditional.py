@@ -20,5 +20,5 @@ print(f"ur fee is {price}")
 
 
 alien_colour = 'green'
-if alien_colour == 'green':
+if alien_colour == 'red':
     print(alien_colour)
